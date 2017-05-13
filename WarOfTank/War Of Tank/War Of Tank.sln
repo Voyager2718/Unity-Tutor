@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "War Of Tank.Plugins", "War Of Tank.Plugins.csproj", "{820F6E36-330B-DCB3-986D-5018E49DE68E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "War Of Tank", "War Of Tank.csproj", "{B8C6F6B1-A5B9-A2F8-2B72-719FF32E4D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "War Of Tank.Editor.Plugins", "War Of Tank.Editor.Plugins.csproj", "{289B13AD-7B02-C693-F511-E25AD0069A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "War Of Tank.Editor", "War Of Tank.Editor.csproj", "{78641D9B-C939-E960-48C4-BBE81014248F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820F6E36-330B-DCB3-986D-5018E49DE68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820F6E36-330B-DCB3-986D-5018E49DE68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820F6E36-330B-DCB3-986D-5018E49DE68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820F6E36-330B-DCB3-986D-5018E49DE68E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C6F6B1-A5B9-A2F8-2B72-719FF32E4D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C6F6B1-A5B9-A2F8-2B72-719FF32E4D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C6F6B1-A5B9-A2F8-2B72-719FF32E4D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C6F6B1-A5B9-A2F8-2B72-719FF32E4D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{289B13AD-7B02-C693-F511-E25AD0069A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{289B13AD-7B02-C693-F511-E25AD0069A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{289B13AD-7B02-C693-F511-E25AD0069A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{289B13AD-7B02-C693-F511-E25AD0069A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78641D9B-C939-E960-48C4-BBE81014248F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78641D9B-C939-E960-48C4-BBE81014248F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78641D9B-C939-E960-48C4-BBE81014248F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78641D9B-C939-E960-48C4-BBE81014248F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
